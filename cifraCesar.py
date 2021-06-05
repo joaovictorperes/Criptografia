@@ -8,7 +8,7 @@ base2 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 base3 = ' '
 
 #Opções
-modo = int(input("Deseja encriptar(1) ou descriptar(2)?: "))
+modo = int(input("Deseja encriptar(1) ou decriptar(2)?: "))
 
 #insere o texto / Entrada de dados
 text = input("Digite o texto para ser executado a opção desejada: \n\n")
