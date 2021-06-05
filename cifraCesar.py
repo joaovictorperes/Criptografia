@@ -1,5 +1,5 @@
 print ("_____________________")
-print("Criptografia de César")
+print("Cifra de César")
 print("----------------------")
 print(" ")
 
